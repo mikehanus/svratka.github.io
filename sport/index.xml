@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SDH Kunčice pod Ondřejníkem on SVRATKA</title>
-    <link>https://svratka.github.io/</link>
-    <description>Recent content in SDH Kunčice pod Ondřejníkem on SVRATKA</description>
+    <title>Sport on SVRATKA</title>
+    <link>https://svratka.github.io/sport/</link>
+    <description>Recent content in Sport on SVRATKA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 24 Jan 2024 14:56:52 +0100</lastBuildDate><atom:link href="https://svratka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://svratka.github.io/sport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spustili jsem nový web</title>
       <link>https://svratka.github.io/sport/novyweb/</link>
@@ -36,24 +36,6 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://svratka.github.io/sdh/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://svratka.github.io/sdh/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://svratka.github.io/jsdh/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://svratka.github.io/jsdh/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
       <title>Chapter II: Pierre Gringoire</title>
       <link>https://svratka.github.io/sport/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
@@ -61,24 +43,6 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
       <guid>https://svratka.github.io/sport/chapter-2/</guid>
       <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
 “Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://svratka.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://svratka.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
-    </item>
-    
-    <item>
-      <title>O nás</title>
-      <link>https://svratka.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://svratka.github.io/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
     </item>
     
   </channel>
