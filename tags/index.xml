@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SVRATKA</title>
-    <link>https://svratka.github.io/tags/</link>
+    <link>https://mikehanus.github.io/svratka.github.io/tags/</link>
     <description>Recent content in Tags on SVRATKA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://svratka.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mikehanus.github.io/svratka.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SDH</title>
-      <link>https://svratka.github.io/tags/sdh/</link>
+      <link>https://mikehanus.github.io/svratka.github.io/tags/sdh/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://svratka.github.io/tags/sdh/</guid>
+      <guid>https://mikehanus.github.io/svratka.github.io/tags/sdh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JSDH</title>
-      <link>https://svratka.github.io/tags/jsdh/</link>
+      <link>https://mikehanus.github.io/svratka.github.io/tags/jsdh/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://svratka.github.io/tags/jsdh/</guid>
+      <guid>https://mikehanus.github.io/svratka.github.io/tags/jsdh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sport</title>
-      <link>https://svratka.github.io/tags/sport/</link>
+      <link>https://mikehanus.github.io/svratka.github.io/tags/sport/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>https://svratka.github.io/tags/sport/</guid>
+      <guid>https://mikehanus.github.io/svratka.github.io/tags/sport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scene</title>
-      <link>https://svratka.github.io/tags/scene/</link>
+      <link>https://mikehanus.github.io/svratka.github.io/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://svratka.github.io/tags/scene/</guid>
+      <guid>https://mikehanus.github.io/svratka.github.io/tags/scene/</guid>
       <description></description>
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SVRATKA</title>
-    <link>https://svratka.github.io/categories/</link>
+    <link>https://mikehanus.github.io/svratka.github.io/categories/</link>
     <description>Recent content in Categories on SVRATKA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cs-cz</language><atom:link href="https://svratka.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>cs-cz</language><atom:link href="https://mikehanus.github.io/svratka.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
